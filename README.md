@@ -9,3 +9,8 @@
 - [禁止事項・利用制限](./acceptable-use-policy.md)
 - [運用方針](./operations-policy.md)
 - [変更履歴](./changelog.md)
+
+## 企画書テンプレート
+- [サーバー運営企画書（提出用フォーマット）](./templates/request.md)
+- [メンテナンス通知テンプレート](./templates/maintenance-notice.md)
+- [障害報告テンプレート](./templates/incident-notice.md)
